@@ -28,11 +28,15 @@ float: right;
 line-height: $nav-height;
 .page-link{
 line-height: $base-line-height;
+color: #fff;
         // Gaps between nav items, but not on the first one
 &:not(:first-child) {
 margin-left: 10px;
         }
     }
+.page-link:hover {
+    color: #ff9966;
+}
 @include media-query($on-palm) {
 position: fixed;
 top: 0px;
