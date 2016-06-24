@@ -13,7 +13,7 @@ layout: default-index
 <div class="project ">
     <div class="thumbnail">
       {% if page.title %}
-        <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}
+        <a href="{{ page.url | prepend: site.baseurl }}">
         {% if project.img %}
         <img class="thumbnail" src="{{ page.img }}"/>
         {% else %}
