@@ -3,8 +3,8 @@ layout: default-index
 ---
 
 <div class="header-bar">
-  <h1>*folio</h1>
-  <h2>simple whitespace theme</h2>
+  <h1>{{ site.title }}</h1>
+  <h2>{{ site.description }}</h2>
   <br/>
   <hr>
   <br/>
