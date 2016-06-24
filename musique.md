@@ -4,7 +4,7 @@ title: musique
 permalink: /musique/
 ---
 
-{% for project in site.portfolio %}
+{% for project in site.musique %}
 
 {% if project.redirect %}
 <div class="project">
