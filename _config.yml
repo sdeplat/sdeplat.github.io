@@ -22,4 +22,6 @@ collections:
   portfolio:
     output: true
     permalink: /portfolio/:path/
-
+  musique:
+    output: true
+    permalink: /musique/:path/
