@@ -1,5 +1,5 @@
 ---
-layout: musique
+layout: post
 title: Hier ?
 description: Musique à Cinq
 img:
