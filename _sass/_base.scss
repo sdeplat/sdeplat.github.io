@@ -32,7 +32,7 @@ $green: #11D68B;
 $lime_green: #B7D12A;
 $purple: #B509AC;
 $green_chill: #009900;
-
+$yellow_chill: #ffff00;
 
 
 $grey-color-dark: #333;   /* footer */
@@ -125,7 +125,7 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: $text-color;
+    color: $yellow_chill;
     text-decoration: none;
     /*
     &:visited {
