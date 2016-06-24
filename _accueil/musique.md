@@ -1,19 +1,13 @@
 ---
 layout: post
-title: Hier ?
-description: Musique à Cinq
-img:
----
-
-# La musique adoucit les moeurs.
-Le saviez-vous ?
----
-layout: post
-title: Hier ?
-description: Musique à Cinq
+title: Musique
+description: La Si Do
 img:
 ---
 
   ---
-  layout: musique
+  layout: post
+  title: Hier ?
+  description: Musique à Cinq
+  img:
   ---
