@@ -25,6 +25,6 @@ collections:
   musique:
     output: true
     permalink: /musique/:path/
-    accueil:
+  accueil:
     output: true
     permalink: /accueil/:path/
