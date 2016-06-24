@@ -12,7 +12,8 @@ layout: default
 {% for page in site.pages %}
 <div class="project ">
     <div class="thumbnail">
-        <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+      {% if page.title %}
+        <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}
         {% if project.img %}
         <img class="thumbnail" src="{{ page.img }}"/>
         {% else %}
@@ -26,6 +27,7 @@ layout: default
             {% endif %}
         </span>
         </a>
+        {% endif %}
     </div>
 </div>
 {% endfor %}
