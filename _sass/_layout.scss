@@ -3,7 +3,6 @@
  * Site header   **********************************************************
  */
 .site-header {
-border-bottom: 3px solid $yellow_chill;
 background-color: $green_chill;
 opacity: 0.75;
 position:fixed;
@@ -12,6 +11,7 @@ top:0px;
 height:56px;
 width:100%;
 z-index: 50;
+box-shadow: 0px, 1px, 6px;
 }
 
 .site-title {
