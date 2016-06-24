@@ -25,6 +25,3 @@ collections:
   musique:
     output: true
     permalink: /musique/:path/
-  accueil:
-    output: true
-    permalink: /accueil/:path/
