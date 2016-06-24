@@ -7,7 +7,7 @@ permalink: /about/
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-Né en automne 1992, je pratique le dessin depuis l'nefance et la musique depuis l'âge de quinze ans. Il m'arrive aussi d'écrire, ou tout simplement de m'exprimer sur les sujets qui me tiennent à coeur. En espérant que vous apprécierez mon travail.
+Né en automne 1992, je pratique le dessin depuis l'enfance et la musique depuis l'âge de quinze ans. Il m'arrive aussi d'écrire, ou tout simplement de m'exprimer sur les sujets qui me tiennent à coeur. En espérant que vous apprécierez mon travail.
 
 Bien à vous,
 
