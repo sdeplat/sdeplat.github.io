@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default-index
 ---
 
 <div class="header-bar">
